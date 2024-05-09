@@ -10,11 +10,11 @@
 </div>
 
 # 安装 & Install
-
+- [Post Device info.apk](https://github.com/DNNDHH/Post-Device-info/releases/tag/v1.0)
+- 
 - 你设备固件需要至少 Android 7.0 API 24 才能运行
 - Your device firmware requires at least Android 7.0 API 24 to run
-
-
+- 
 - 这仅仅是在 游戏或应用程序 进行 https.Post 请求 时所使用到的 UserAgent & DeviceInfo
 - This is only the UserAgent & DeviceInfo used when the game or application makes an https.Post request
 
