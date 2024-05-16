@@ -24,3 +24,5 @@
 - arm32版本 最低支持 Android 10
 - arm32 version supports at least Android 10
 
+- ------------------------------------------------------ -
+迟点再更新支持Android 10 以下的设备吧。。。。（现在的手机还有低于Android 10的？）
